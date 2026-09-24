@@ -1,0 +1,9 @@
+---
+apic:
+  tenants:
+    - name: production
+      managed: false
+      security_domains:
+        - production
+
+          
