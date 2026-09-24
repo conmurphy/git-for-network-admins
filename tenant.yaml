@@ -6,4 +6,6 @@ apic:
       security_domains:
         - production
 
+      vrfs:
+        - name: vrf-external
           
