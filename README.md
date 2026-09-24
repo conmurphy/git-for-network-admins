@@ -1,3 +1,3 @@
 # git-for-network-admins
 
-This is the readme for the NaC ACI config
+This is the readme for the NaC ACI config. These are examples"
