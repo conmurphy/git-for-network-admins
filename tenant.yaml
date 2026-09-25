@@ -5,7 +5,3 @@ apic:
       managed: false
       security_domains:
         - production
-
-      vrfs:
-        - name: vrf-external
-          
